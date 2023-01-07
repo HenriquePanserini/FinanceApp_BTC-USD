@@ -1,0 +1,7 @@
+{
+    "apps": [{
+        "name":"Bitcoin_RabbitMQ-node",
+        "script":"node",
+        "args":"../build/index.js"
+    }]
+}
