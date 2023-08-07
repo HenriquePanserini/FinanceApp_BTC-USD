@@ -13,4 +13,4 @@
   <li>Git</li>
 </ul>
 
-<img src=""/>
+<img src="img/Bitcoin-vue-node.png" alt="grafico-bitcoin-usd"/>
